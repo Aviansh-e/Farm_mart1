@@ -1,4 +1,4 @@
-const { request } = require('io');
+// const { request } = require('io');
 const Product = require('../model/product-schema.js');
 
 const getproducts = async (request, response) => {
