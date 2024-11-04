@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const url = 'https://farm-mart1-2.onrender.com';
+// const url = 'https://farm-mart1-2.onrender.com';
+const url = 'http://localhost:3001';
 
 const Authentication = async (data) => {
     try {
